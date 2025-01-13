@@ -1,6 +1,6 @@
 # Micro Cursos
 
-Micro Cursos es una aplicación de gestión de cursos y estudiantes, desarrollada con **Spring Boot** y **MySQL**. Este proyecto incluye funcionalidades para crear, leer, actualizar y eliminar información de cursos y estudiantes.
+Micro Cursos es una aplicación de gestión de cursos y estudiantes, desarrollada con **Spring Boot** y **MySQL**. Este proyecto incluye funcionalidades para crear, leer, actualizar y eliminar información de departamentos.
 
 ## Características
 
